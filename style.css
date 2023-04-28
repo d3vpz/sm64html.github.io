@@ -1,0 +1,15 @@
+body {
+    background-color: black;
+}
+
+p, h1, h2 {
+    color: limegreen;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+button {
+    color:limegreen;
+    background-color: black;
+    align-items: center;
+}
