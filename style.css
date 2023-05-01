@@ -11,5 +11,6 @@ p, h1, h2 {
 button {
     color:black;
     background-color: white;
+    font-family: 'Courier New', Courier, monospace
     align-items: center;
 }
