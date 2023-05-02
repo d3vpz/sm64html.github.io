@@ -14,4 +14,12 @@ function GEO_ANIMATED_PART(l, x, y, z, dl) {
     return l, x, y, z, dl;
 }
 
+function GEO_SWITCH_CASE(c, n) {
+    return c, n;
+}
+
+function GEO_CLOSE_NODE() {
+    return false;
+}
+
 export { functions }
