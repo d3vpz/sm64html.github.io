@@ -22,4 +22,12 @@ function GEO_CLOSE_NODE() {
     return false;
 }
 
+function GEO_BILLBOARD() {
+    return false;
+}
+
+function GEO_END() {
+    return false;
+}
+
 export { functions }
